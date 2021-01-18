@@ -18,7 +18,7 @@ export default class NavBar  extends React.Component {
     render() {
         return (
             <div style={{display: 'flex', justifyContent: 'center', gap: '2rem'}}>
-                { this.state.navs.map(nav => <Link to={nav.link}>{nav.title}</Link>) }
+                { this.state.navs.map(nav => <Link key={ nav.id } to={ nav.link }>{ nav.title }</Link>) }
             </div>
         );
     }

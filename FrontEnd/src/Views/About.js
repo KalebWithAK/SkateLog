@@ -11,7 +11,7 @@ export default class About extends React.Component {
 
     render() {
         return (
-            <div>
+            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '1em 0em 1em' }}>
                 <FounderPics />
                 <h3>Bold. Innovative.</h3>
                 <Wreaths />

@@ -1,5 +1,8 @@
 import React from 'react';
 
+import ReviewsContainer from '../Components/ReviewsContainer.js';
+import AddReview from '../Components/AddReview.js';
+
 export default class Reviews extends React.Component {
     constructor(props) {
         super(props);
@@ -8,7 +11,8 @@ export default class Reviews extends React.Component {
     render() {
         return (
             <div>
-                Reviews
+                <ReviewsContainer />
+                <AddReview />
             </div>
         );
     }

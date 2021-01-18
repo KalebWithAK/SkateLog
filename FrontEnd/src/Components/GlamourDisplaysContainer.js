@@ -18,7 +18,7 @@ export default class GlamourDisplaysContainer extends React.Component {
     render() {
         return (
             <div>
-                { this.state.displays.map(display => <GlamourDisplay text={display.text} img={display.img} />) }
+                { this.state.displays.map(display => <GlamourDisplay key={ display.id } text={ display.text } img={ display.img } />) }
             </div>
         );
     }
