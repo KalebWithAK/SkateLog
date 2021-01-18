@@ -7,7 +7,7 @@ export default class NavBar  extends React.Component {
 
         this.state = {
             navs: [
-                { title: 'Home', link: '/home', id: 0 },
+                { title: 'Home', link: '/', id: 0 },
                 { title: 'About', link: '/about', id: 1 },
                 { title: 'Reviews', link: '/reviews', id: 2 },
                 { title: 'Shop', link: '/shop', id: 3 },

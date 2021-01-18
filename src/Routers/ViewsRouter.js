@@ -19,7 +19,7 @@ export default class ViewsRouter extends React.Component {
                     <Top />
 
                     <Switch>
-                        <Route path='/home'><Home /></Route>
+                        <Route exact path='/'><Home /></Route>
                         <Route path='/about'><About /></Route>
                         <Route path='/reviews'><Reviews /></Route>
                         <Route path='/shop'><Shop /></Route>
