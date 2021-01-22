@@ -1,10 +1,6 @@
 import React from 'react';
 
 export default class BrandBar extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div style={{width: '100%', display: 'flex', flexDirection: 'row'}}>
