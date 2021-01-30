@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skatelog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/skatelog/static/js/main.3327ad92.chunk.js",
+    "main.js.map": "/skatelog/static/js/main.3327ad92.chunk.js.map",
+    "runtime-main.js": "/skatelog/static/js/runtime-main.79919359.js",
+    "runtime-main.js.map": "/skatelog/static/js/runtime-main.79919359.js.map",
+    "static/js/2.170a0713.chunk.js": "/skatelog/static/js/2.170a0713.chunk.js",
+    "static/js/2.170a0713.chunk.js.map": "/skatelog/static/js/2.170a0713.chunk.js.map",
+    "static/js/3.cf1030f1.chunk.js": "/skatelog/static/js/3.cf1030f1.chunk.js",
+    "static/js/3.cf1030f1.chunk.js.map": "/skatelog/static/js/3.cf1030f1.chunk.js.map",
+    "index.html": "/skatelog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/skatelog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.170a0713.chunk.js.LICENSE.txt": "/skatelog/static/js/2.170a0713.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79919359.js",
+    "static/js/2.170a0713.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3327ad92.chunk.js"
+  ]
+}
